@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/MicroShell.dir/main.cpp.o  -o MicroShell 

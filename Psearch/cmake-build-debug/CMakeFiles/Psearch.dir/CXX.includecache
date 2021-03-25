@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nikolai/CLionProjects/Fupm/Psearch/psearch.cpp
+bits/stdc++.h
+-
+stdio.h
+-
+dirent.h
+-
+string.h
+-
+thread
+-
+mutex
+-
+future
+-
+

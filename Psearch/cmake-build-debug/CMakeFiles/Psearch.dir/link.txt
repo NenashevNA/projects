@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Psearch.dir/psearch.cpp.o  -o Psearch 
