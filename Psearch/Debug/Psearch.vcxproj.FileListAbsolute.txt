@@ -1,2 +1,0 @@
-C:\Users\User\source\repos\Psearch\Debug\Psearch.exe
-C:\Users\User\source\repos\Psearch\Debug\Psearch.pdb
